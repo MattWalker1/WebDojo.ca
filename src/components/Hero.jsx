@@ -13,21 +13,19 @@ const Hero = () => {
           <p className={`${styles.paragraph} ml-2`}>
             <span className="text-white">20% OFF </span>
               Website Development Packages {" "} 
-            <span className="text-white"> in March </span>
-              
+            <span className="text-white"> - ends March 1 </span>   
           </p>
         </div>
 
         <div className="flex flex-row justify-between items-center w-full">
           <h1 className="flex-1 font-poppins font-semibold ss:text-[72px] text-[52px] text-white ss:leading-[100px] leading-[75px]">  
           Website <br className="sm:block hidden"/> {" "}
-          <span className="text-gradient">
-          Development</span> {" "}
+          <span className="text-gradient">Development</span> {" "}
           </h1>
         </div>
 
         <h1 className=" font-poppins font-semibold ss:text-[68px] text-[52px] text-white ss:leading-[100px] leading-[75px] w-full">Simplified.</h1>
-        <p className={`${styles.paragraph} max-w-[470px] mt-5`}> Based in Edmonton, we provide tailormade Website Development for any size Business. </p>
+        <p className={`${styles.paragraph} max-w-[470px] mt-5`}> Tailormade Website Development for any size Business. </p>
         <p className={`${styles.paragraph} max-w-[470px] mt-5`}>Scale traffic to your website with our custom Ad management services. All websites are developed using the fastest web technologies and frameworks available today, backed by companies like Meta & Google.</p>
       </div>
 

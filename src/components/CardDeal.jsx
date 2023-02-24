@@ -7,7 +7,6 @@ const CardDeal = () => (
         <h2 className={styles.heading2}> Cloud based Hosting  <br className="sm:block hidden"/>  </h2>
         <p className={`${styles.paragraph} max-w-[470px] mt-5`}> We eliminate cybersecurity threats and put you and your customers minds at ease. Using world-class frameworks and technologies,
         back your business up on the cloud. Cloud Data is stored in mutliple geographical locations, preventing any chance of a catastrophic loss.</p>
-        
       </div>
 
 
