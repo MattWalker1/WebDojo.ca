@@ -1,7 +1,6 @@
 import airbnb from "./airbnb.png";
 import cloudbased from "./cloudbased.png";
 import binance from "./binance.png";
-import card from "./card.png";
 import dojo from "./dojo.png";
 import coinbase from "./coinbase.png";
 import dropbox from "./dropbox.png";
@@ -16,18 +15,17 @@ import close from "./close.svg";
 import google from "./google.svg";
 import apple from "./apple.svg";
 import arrowUp from "./arrow-up.svg";
-import discount from "./Discount.svg";
 import facebook from "./facebook.svg";
 import instagram from "./instagram.svg";
 import linkedin from "./linkedin.svg";
 import twitter from "./twitter.svg";
 import dojosilver from "./dojosilver.png";
 import dojobronze from "./dojobronze.png";
+import discount from "./discount.svg";
 
 export {
   airbnb,
   binance,
-  card,
   cloudbased,
   coinbase,
   dojo,

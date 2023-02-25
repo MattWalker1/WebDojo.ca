@@ -1,6 +1,6 @@
 import styles from './style';
 
-import { Navbar, Button, CardDeal, Contact, Services, CTA, Footer, Hero, Testimonials, FeedbackCard } from './components';
+import { Navbar, Button, CardDeal, Contact, Services, CTA, Footer, Hero, Testimonials } from './components';
 
 const App = () => {
     return (
