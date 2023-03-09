@@ -24,7 +24,7 @@ const Hero = () => {
           </h1>
         </div>
 
-        <h1 className=" font-poppins font-semibold ss:text-[68px] text-[52px] text-white ss:leading-[100px] leading-[75px] w-full">Simplified.</h1>
+        <h1 className="font-poppins font-semibold ss:text-[68px] text-[52px] text-white ss:leading-[100px] leading-[75px] w-full">Simplified.</h1>
         <p className={`${styles.paragraph} max-w-[470px] mt-5`}> Tailormade Website Development for any size Business. </p>
         <p className={`${styles.paragraph} max-w-[470px] mt-5`}>Scale traffic to your website with our custom Ad management services. All websites are developed using the fastest web technologies and frameworks available today, backed by companies like Meta & Google.</p>
       </div>

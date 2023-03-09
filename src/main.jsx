@@ -8,3 +8,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
     <App />
   </React.StrictMode>,
 )
+
+
+//insert the ReactRouter wrapper around the app in here, remove strictmode. strictmode is for development builds only, once read to build to production, 
+  // you should remove <React.Strictmode>
