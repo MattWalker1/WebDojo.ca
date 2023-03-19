@@ -1,5 +1,5 @@
-// Latest project testing out tailwindcss.  + React + Vanilla Javascript
+// Webdojo.ca was made with Tailwindcss + React + vanilla JS + hosted on AWS EC2 
 
-Dojo image & technology stock images used - 
+"Ninja" stock image credit- 
 https://www.vecteezy.com/free-vector/dojo  by Vecteezy
 
