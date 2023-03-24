@@ -43,25 +43,25 @@ export const feedback = [
   {
     id: "feedback-1",
     content:
-      "Great for small businesses that want to work with an agency, every step of the way. Working with a Web Development manager to asses your online goals, create a content strategy & deliver a fast, modern website.",
+      "Our most popular website package. Great for small businesses that want to work with an agency, every step of the way. Working with a Web Development manager to asses your online goals, create a content strategy & deliver a fast, modern website.",
     name: "Bronze Package",
-    title: "Our most popular website package",
+    title: "prices start from $2400",
     img: dojobronze,
   },
   {
     id: "feedback-2",
     content:
-      "For businesses that want to make a big impact online, we combine extensive competitor research, identify individual business key data metrics & work with you every step of the way to ensure a new website has everything your business needs to succeed.",
+      "Basic API integration, extensive competitor research & industry specific data-metrics utilization extensive competitor research, identify individual business key data metrics. Combining all of this to develop a beautiful, fast, fluid user experience for your online business presence.",
     name: "Silver Package",
-    title: "API integration, extensive competitor research & industry specific data-metrics utilization.",
+    title: "prices start from $4400",
     img: dojosilver,
   },
   {
     id: "feedback-3",
     content:
-      "The Elite package is for larger businesses that need custom web development in order to scale.",
+      "For businesses that want to make a big impact online. The Elite package is for larger businesses that need custom web development in order to scale. API integration, e-Commerce & Stripe/Paypal billing setup, we will create your cutting-edge online store-front",
     name: "Custom Development",
-    title: "API integration, e-Commerce & Stripe billing",
+    title: "prices start from $9800",
     img: dojo,
   },
 ];
