@@ -89,62 +89,29 @@ export const footerLinks = [
     title: "Useful Links",
     links: [
       {
-        name: "Content",
+        name: "Home",
         link: "https://www.webdojo.ca/content/",
       },
-      {
-        name: "How it Works",
-        link: "https://www.webdojo.ca/how-it-works/",
-      },
-      {
-        name: "Create",
-        link: "https://www.webdojo.ca/create/",
-      },
-      {
-        name: "Explore",
-        link: "https://www.webdojo.ca/explore/",
-      },
-      {
-        name: "Terms & Services",
-        link: "https://www.webdojo.ca/terms-and-services/",
-      },
+      // {
+      //   name: "Terms & Services",
+      //   link: "https://www.webdojo.ca/terms-and-services/",
+      // },
     ],
   },
   {
-    title: "Community",
+    title: "Technologies we use",
     links: [
       {
-        name: "Help Center",
-        link: "https://www.hoobank.com/help-center/",
+        name: "React",
+        link: "https://react.dev/",
       },
       {
-        name: "Partners",
-        link: "https://www.hoobank.com/partners/",
+        name: "TailwindCSS",
+        link: "https://tailwindcss.com/",
       },
       {
-        name: "Suggestions",
-        link: "https://www.hoobank.com/suggestions/",
-      },
-      {
-        name: "Blog",
-        link: "https://www.hoobank.com/blog/",
-      },
-      {
-        name: "Newsletters",
-        link: "https://www.hoobank.com/newsletters/",
-      },
-    ],
-  },
-  {
-    title: "Partner",
-    links: [
-      {
-        name: "Our Partner",
-        link: "https://www.hoobank.com/our-partner/",
-      },
-      {
-        name: "Become a Partner",
-        link: "https://www.hoobank.com/become-a-partner/",
+        name: "Vite",
+        link: "https://vitejs.dev/",
       },
     ],
   },
