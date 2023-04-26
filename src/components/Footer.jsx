@@ -10,7 +10,7 @@ const Footer = () => {
             <img src={logo}
              alt="webdojo"
              className="w-[366px] h-[192px] object-contain"/>
-            <p className={`${styles.paragraph} mt-4 max-w-[310px]`}> Our talented Web Developers will take your business to the next level, call today for a free quote 780-243-4760! </p>
+            <p className={`${styles.paragraph} mt-4 max-w-[310px]`}> Our talented Web Developers will take your business to the next level, call today for a free quote +1-780-243-4760! </p>
         </div>
 
        <div className="flex-[1.5] w-full flex flex-row justify-between flex-wrap md:mt-0 mt-10"> 

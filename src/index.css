@@ -67,7 +67,7 @@
 .bg-gray-gradient {
   background: linear-gradient(
     153.47deg,
-    rgba(255, 255, 255, 0) -341.94%,
+    rgba(255, 255, 255, 0.274) -341.94%,
     #14101d 95.11%
   );
 }
@@ -77,7 +77,7 @@
 }
 
 .box-shadow {
-  box-shadow: 0px 20px 100px -10px rgba(66, 71, 91, 0.1);
+  box-shadow: 0px 20px 100px -10px rgba(66, 73, 91, 0.1);
 }
 
 .sidebar {
