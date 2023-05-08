@@ -3,6 +3,7 @@ import styles, { layout } from '../style';
 
 const CardDeal = () => (
     <section className={layout.section}>
+
       <div className={layout.sectionInfo}>
         <h2 className={styles.heading2}> Cloud based Hosting  <br className="sm:block hidden"/>  </h2>
         <p className={`${styles.paragraph} max-w-[470px] mt-5`}> We eliminate cybersecurity threats and put you and your customers minds at ease. Using world-class frameworks and technologies,
@@ -11,6 +12,7 @@ const CardDeal = () => (
 
 
       <div className={`flex-1 flex ${styles.flexCenter} md:my-0 my-10 relative`}>
+
         <div className={layout.sectionImg}>
         <img src={cloudbased} alt="cloudbased" className="w-[100%] h-[100%]" />
         </div>
@@ -20,7 +22,6 @@ const CardDeal = () => (
         <div className="absolute z-[0] w-[50%] h-[10%] right-20 bottom-20 blue__gradient"/>
 
       </div>
-      
     </section>
 )
 
