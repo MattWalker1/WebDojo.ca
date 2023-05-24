@@ -2,7 +2,7 @@ import React from 'react'
 
 const Button = ({ styles }) => {
   const openGmail = () => {
-    window.open('https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcRwRrqGXGXJTswbwHbSKFTRzpwnFsRCQPFvfSqCwdrPlKtLqpcqBtRGFBVFtTFmckZVBBLSJ', '_blank');
+    window.open('https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRtsNQgqTvmHHsWHBnKJCxrpwwbzzpcJWlNQDQFfnGdCZGXkcgqnZXRgxGNCgnqLsSNFMVL', '_blank');
   };
   
   return (
