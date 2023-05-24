@@ -24,17 +24,15 @@ const Services = () => {
     <section id="features" className={layout.section}>
     
         <div className={layout.sectionInfo}>
-          <h2 className={styles.heading2}> Modern website design,<br className="sm:block hidden"/> packed full of custom features.</h2>
+          <h2 className={styles.heading2}> Modern website design,<br className="sm:block hidden"/> packed full of blazingly fast custom features.</h2>
           <p className={`${styles.paragraph} max-w-[470px] mt-5`}>We offer web development services in 3 simple packages. Gold, Silver & Bronze. 
           Depending on what level of customizability and scalability your business needs.</p>
-          
         </div>
 
         <div className={`${layout.sectionImg} flex-col`}>
           {features.map((feature, index) => (
             <FeatureCard key={feature.id} {...feature} index={index}/>
           ))}
-        
         </div>
 
     </section>
