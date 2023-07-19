@@ -8,7 +8,7 @@ const Navbar = () => {
     const [toggle, setToggle] = useState(false);
 
   return (
-    <nav className="w-full flex py-4 justify-between items-center navbar">
+    <nav className="w-full flex justify-between items-center navbar">
     <img src={logo} alt="webdojo" className="w-[322px] h-[222px]"/>
 
       <ul className="list-none sm:flex hidden justify-end items-center flex-1">
