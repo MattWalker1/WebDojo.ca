@@ -7,7 +7,7 @@ const CardDeal = () => (
       <div className={layout.sectionInfo}>
         <h2 className={styles.heading2}> Cloud based Hosting  <br className="sm:block hidden"/>  </h2>
         <p className={`${styles.paragraph} max-w-[470px] mt-5`}>Web Dojo eliminates cybersecurity threats and put you and your customers minds at ease. Using modern frameworks and technologies, Web Dojo securely stores your data behind multi-layered security protocols &
-        backs your sensitive data up on the cloud, no risks, stress-free. Cloud Data is stored in mutliple geographical locations, preventing the risk of a catastrophic loss.</p>
+        backs your sensitive data up on the cloud, no risks, stress-free. Our Cloud Data is stored & backed up on multiple third-party cloud servers and geographical locations. Preventing any chance of a catastrophic loss of data.</p>
       </div>
 
 
