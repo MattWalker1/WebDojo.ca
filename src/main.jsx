@@ -8,5 +8,5 @@ ReactDOM.createRoot(document.getElementById('root')).render(
 )
 
 
-//insert the ReactRouter wrapper around the app in here, remove strictmode.
+//insert the ReactRouter wrapper around the app in here, -strictmode.
   
