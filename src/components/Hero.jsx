@@ -27,7 +27,7 @@ const Hero = () => {
         <h1 className="font-poppins font-semibold ss:text-[68px] text-[52px] text-white ss:leading-[100px] leading-[75px] w-full">Simplified.</h1>
         <p className={`${styles.paragraph} max-w-[470px] mt-5`}>Tailormade Website Development For Any Size Business. WebDojo will help every step of the way.</p>
         <p className={`${styles.paragraph} max-w-[470px] mt-5`}>Scale traffic to your website with our custom Ad management services. All websites are developed using the fastest web technologies and frameworks available today, utilizing frameworks & libraries created by companies like Meta & Google.</p>
-        <p className={`${styles.paragraph} max-w-[470px] mt-5`}>Start talking with our team based in Edmonton today, and let us turn your online business vision, into a reality. Call now for a free Web development consultation +1-780-243-4760.</p>
+        <p className={`${styles.paragraph} max-w-[470px] mt-5`}>Start talking with our team based in Edmonton today, and let us turn your online business vision, into a reality. Call our Web development in Edmonton for a no-stress conversation +1-780-243-4760.</p>
       </div>
 
       <div className={`flex-1 flex ${styles.flexCenter} md:my-0 my-10 relative`}>
