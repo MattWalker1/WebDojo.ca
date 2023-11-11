@@ -11,9 +11,9 @@ const Hero = () => {
           <img src={discount} alt="discount" 
           className="w-[64px] h-[64px]"/>
           <p className={`${styles.paragraph} ml-2`}>
-            <span className="text-white">Get 20% off all Web Development builds - </span>
-              all Web Development Packages {" "} 
-            <span className="text-white"> - Offer ends September 1 </span>   
+            <span className="text-white">GET 20% OFF - </span>
+              ALL Web Development Packages!! {" "} 
+            <span className="text-white"> - Offer ends December 1st </span>   
           </p>
         </div>
 
@@ -27,7 +27,7 @@ const Hero = () => {
         <h1 className="font-poppins font-semibold ss:text-[68px] text-[52px] text-white ss:leading-[100px] leading-[75px] w-full">Simplified.</h1>
         <p className={`${styles.paragraph} max-w-[470px] mt-5`}>Tailormade Website Development For Any Size Business. WebDojo will help every step of the way.</p>
         <p className={`${styles.paragraph} max-w-[470px] mt-5`}>Scale traffic to your website with our custom Ad management services. All websites are developed using the fastest web technologies and frameworks available today, utilizing frameworks & libraries created by companies like Meta & Google.</p>
-        <p className={`${styles.paragraph} max-w-[470px] mt-5`}>Start talking with our team today and let us turn your online vision, into a reality. Call now for a free consultation +1-780-243-4760.</p>
+        <p className={`${styles.paragraph} max-w-[470px] mt-5`}>Start talking with our team based in Edmonton today, and let us turn your online business vision, into a reality. Call now for a free Web development consultation +1-780-243-4760.</p>
       </div>
 
       <div className={`flex-1 flex ${styles.flexCenter} md:my-0 my-10 relative`}>

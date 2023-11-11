@@ -89,7 +89,7 @@ export const footerLinks = [
     title: "Useful Links",
     links: [
       {
-        name: "Home",
+        name: "",
         link: "https://www.webdojo.ca/content/",
       },
       // {
@@ -102,15 +102,15 @@ export const footerLinks = [
     title: "Technologies we use",
     links: [
       {
-        name: "React",
+        name: "",
         link: "https://react.dev/",
       },
       {
-        name: "TailwindCSS",
+        name: "",
         link: "https://tailwindcss.com/",
       },
       {
-        name: "Vite",
+        name: "",
         link: "https://vitejs.dev/",
       },
     ],
