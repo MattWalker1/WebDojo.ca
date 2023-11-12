@@ -25,16 +25,16 @@ const Hero = () => {
         </div>
 
         <h1 className="font-poppins font-semibold ss:text-[68px] text-[52px] text-white ss:leading-[100px] leading-[75px] w-full">Simplified.</h1>
-        <p className={`${styles.paragraph} max-w-[470px] mt-5`}>Tailormade Website Development For Any Size Business. WebDojo will help every step of the way.</p>
-        <p className={`${styles.paragraph} max-w-[470px] mt-5`}>Scale traffic to your website with our custom Ad management services. All websites are developed using the fastest web technologies and frameworks available today, utilizing frameworks & libraries created by companies like Meta & Google.</p>
-        <p className={`${styles.paragraph} max-w-[470px] mt-5`}>Start talking with our team based in Edmonton today, and let us turn your online business vision, into a reality. Call our Web development in Edmonton for a no-stress conversation +1-780-243-4760.</p>
+        <p className={`${styles.paragraph} max-w-[490px] mt-3`}>Tailormade Website Development for any size business - Web Dojo has got you covered.</p>
+        <p className={`${styles.paragraph} max-w-[490px] mt-5`}>Scale traffic to your Website with our customizable digital/social media marketing packages. Developed using the fastest frameworks available today, utilizing libraries created & future-proofed by companies like Meta & Google.</p>
+        <p className={`${styles.paragraph} max-w-[490px] mt-3`}>Start talking with our team based in Edmonton today, and let us turn your online business vision, into a reality. Call our Web development team in Edmonton for a free quote +1-780-243-4760.</p>
       </div>
 
-      <div className={`flex-1 flex ${styles.flexCenter} md:my-0 my-10 relative`}>
-        <img src={robot} alt="webdev" className="w-[100%] h-[90%] relative z-[5]"/>
+      <div className={`flex-1 flex ${styles.flexCenter} md:my-5 my-10 relative`}>
+        <img src={robot} alt="webdev" className="w-[80%] h-[70%] relative z-[5]"/>
         <div className="absolute z-[0] w-[40%] h-[35%] top-0 pink__gradient"/>
-        <div className="absolute z-[1] w-[80%] h-[80%] rounded-full bottom-40 white__gradient"/>
-        <div className="absolute z-[0] w-[50%] h-[50%] right-20 bottom-20 blue__gradient"/>
+        <div className="absolute z-[1] w-[70%] h-[60%] rounded-full bottom-40 white__gradient"/>
+        <div className="absolute z-[0] w-[40%] h-[50%] right-20 bottom-20 blue__gradient"/>
 
       </div>
 
